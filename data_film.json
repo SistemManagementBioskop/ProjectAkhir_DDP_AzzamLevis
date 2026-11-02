@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "judul": "Galaksi Terakhir",
+        "genre": "Sci-Fi",
+        "durasi": 130,
+        "jam": "19:00",
+        "harga": 50000,
+        "stok": 36
+    },
+    {
+        "id": 2,
+        "judul": "Dapur Mama",
+        "genre": "Drama",
+        "durasi": 105,
+        "jam": "16:30",
+        "harga": 40000,
+        "stok": 33
+    },
+    {
+        "id": 3,
+        "judul": "Rumah di Ujung Jalan",
+        "genre": "Horor",
+        "durasi": 98,
+        "jam": "21:00",
+        "harga": 45000,
+        "stok": 30
+    },
+    {
+        "id": 4,
+        "judul": "Petualangan Si Kancil",
+        "genre": "Animasi",
+        "durasi": 90,
+        "jam": "13:00",
+        "harga": 35000,
+        "stok": 47
+    },
+    {
+        "id": 5,
+        "judul": "Kejar Sampai Jakarta",
+        "genre": "Aksi",
+        "durasi": 120,
+        "jam": "20:15",
+        "harga": 50000,
+        "stok": 45
+    }
+]
