@@ -5,6 +5,7 @@
 - Muhammad Raffy Putra Triadi (2609116091)
 - Athallah Rafif (2609116096)
 - Rakhmat Nur Alif Abdillah (26091160100)
+
   
 # Sistem Management Bioskop #
 Program ini adalah sistem pengelolaan bioskop berbasis terminal yang dibuat dengan Python. Ada dua peran akun, yaitu admin dan user. Admin mengelola data film dan memantau seluruh transaksi, sedangkan user membeli tiket memakai saldo e-money miliknya sendiri. Akun admin sudah tersedia dari awal (username `admin`, password `admin123`), sementara user baru bisa mendaftar lewat menu registrasi dan otomatis mendapat peran user dengan saldo awal Rp0. Username minimal 5 karakter dan hanya boleh berisi huruf, angka, dan underscore, sedangkan password minimal 6 karakter tanpa spasi dan harus diketik dua kali untuk konfirmasi. Saat login, pengguna punya maksimal 3 kali percobaan sebelum dikembalikan ke menu utama.<br>
