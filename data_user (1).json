@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin",
+        "saldo": 0
+    },
+    "Rapip": {
+        "password": "Rapip123",
+        "role": "user",
+        "saldo": 0
+    }
+}
