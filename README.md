@@ -1,5 +1,3 @@
-# ProjectAkhir_DDP_AzzamLevis<br>
-
 ## Nama Anggota Kelompok ##
 - Muhammad Indra Pratama (2609116083)
 - Muhammad Raffy Putra Triadi (2609116091)
@@ -33,3 +31,43 @@ Pilihan 2 pada menu admin menampilkan riwayat semua transaksi. Program mengecek 
 Pada menu user (konektor C), user juga memasukkan pilihan 0 sampai 4. Pilihan 1 (Lihat film tayang) mengecek data film di .json lalu menampilkan seluruh film yang tayang. Pilihan 2 (Beli tiket) adalah alur paling panjang. Program menampilkan seluruh film beserta saldo user, lalu user memasukkan ID film. Jika ID tidak ada atau kursi habis, program menampilkan pesan tersebut dan kembali ke C. Jika ID ada dan kursi tersedia, user memasukkan jumlah tiket dan program menghitung total bayar. Kalau saldo kurang dari total, muncul pesan “saldo tidak cukup” dan user kembali ke C. Kalau saldo cukup, program menanyakan “lanjut bayar? (y/n)”. Jawaban n membatalkan dan kembali ke C. Jawaban y membuat program mengurangi saldo dan kursi, menyimpan transaksi ke .json, lalu menampilkan invoice dan sisa saldo sebelum kembali ke C.
 
 Pilihan 3 (Top up saldo) meminta user memasukkan nominal. Jika nominal sekurang-kurangnya 10.000, saldo ditambah dan disimpan ke .json, lalu muncul pesan “top up berhasil”. Jika kurang dari itu, muncul pesan “nominal kurang dari minimal”. Keduanya kembali ke C. Pilihan 4 (Riwayat transaksi saya) mengecek transaksi milik user di .json lalu menampilkannya. Pilihan 0 (Logout) membawa user kembali ke menu utama (A), dan pilihan lain menghasilkan “menu tidak ada” lalu kembali ke C.
+
+**Ini Adalah Hasil Hasil Outputnya:**<br>
+<img width="523" height="224" alt="image" src="https://github.com/user-attachments/assets/be82f0c4-5f2c-45ff-923c-95c82fe10999" /><br>
+Menu Output Awal<br>
+<img width="540" height="224" alt="image" src="https://github.com/user-attachments/assets/2e3c526d-0b52-4a1e-a709-fecf022eb77b" /><br>
+Output menu login<br>
+<img width="696" height="381" alt="image" src="https://github.com/user-attachments/assets/8535790f-aa35-4dcc-b928-09e01b4b1488" /><br>
+Output menu login user jika salah 3x<br>
+<img width="552" height="235" alt="image" src="https://github.com/user-attachments/assets/33567d38-d34f-4d25-832e-3631e6c9c135" /><br>
+Output Menu Admin<br>
+<img width="798" height="432" alt="image" src="https://github.com/user-attachments/assets/d01581fa-7b3c-475a-a29e-0f680ee29513" /><br>
+Output Menu kelola film(admin)<br>
+<img width="566" height="148" alt="image" src="https://github.com/user-attachments/assets/383ea039-0438-47a3-a8a8-68f18392c628" /><br>
+Output menu tambah film(admin)<br>
+<img width="845" height="346" alt="image" src="https://github.com/user-attachments/assets/865553f5-4028-482e-80c0-04220b0b282d" /><br>
+Output menu ubah film(admin)<br>
+<img width="763" height="353" alt="image" src="https://github.com/user-attachments/assets/028a450b-515d-4e31-8fc1-03573f775a89" /><br>
+Output menu hapus film(admin)<br>
+<img width="887" height="264" alt="image" src="https://github.com/user-attachments/assets/06799a22-80df-4507-b851-fc4cd0e395ff" /><br>
+Output menu riwayat semua transaksi(admin)<br>
+<img width="544" height="355" alt="image" src="https://github.com/user-attachments/assets/27d1f62d-3df2-49af-be47-f5887a57ac21" /><br>
+Output menu laporan ringkas(admin)<br>
+<img width="533" height="267" alt="image" src="https://github.com/user-attachments/assets/1453819f-47c4-4134-916d-4491135cc064" /><br>
+Output menu daftar akun(admin)<br>
+<img width="517" height="271" alt="image" src="https://github.com/user-attachments/assets/e1c0fcff-c6ac-410a-a939-6d08c49b2108" /><br>
+Output menu User<br>
+<img width="802" height="344" alt="image" src="https://github.com/user-attachments/assets/14c1216b-9fc0-4268-aeb5-ad2cfa530bd5" /><br>
+output menu film tayang<br>
+<img width="798" height="380" alt="image" src="https://github.com/user-attachments/assets/ae3b4b81-a10e-4f83-b26b-63e74f0d4aa3" /><br>
+Output menu beli tiket<br>
+<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/87496704-20a3-4030-b61f-0dc1d23d0177" /><br>
+Output menu beli tiket jika user tidak mempunyai saldo yang cukup<br>
+<img width="595" height="315" alt="image" src="https://github.com/user-attachments/assets/a209a319-48da-4aa0-8726-258311ea3d26" /><br>
+Output Top Up saldo<br>
+<img width="891" height="863" alt="image" src="https://github.com/user-attachments/assets/90b30d12-5858-4a76-8a09-7fd225196279" /><br>
+Output user setelah membeli ticket<br>
+<img width="875" height="310" alt="image" src="https://github.com/user-attachments/assets/30f57b07-4878-4b2f-89e3-868f7aeb2074" /><br>
+Output riwayat transaksi user<br>
+<img width="875" height="310" alt="image" src="https://github.com/user-attachments/assets/7c97acde-9930-4519-a564-4372bc53e4c5" /><br>
+Output memilih menu keluar<br>
