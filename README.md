@@ -25,8 +25,7 @@ Akun admin sudah tersedia dari awal. User baru bisa daftar lewat menu registrasi
 | Username | Password | Role |
 |----------|----------|------|
 | admin | admin123 | Admin |
-| Indra | Indra123 | User |
-| Randytzy | Koscello30 | User |
+| Rapip | Rapip123 | User |
 
 **Aturan registrasi:**
 
